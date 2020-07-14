@@ -1,0 +1,25 @@
+body{
+  background-color: #e79cc2;
+}
+.top-box{
+  background-color: #0fabbc;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  border: solid 10px;
+}
+.middle-box{
+  background-color: #99b898;
+  margin-left: 260px;
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  border: solid 10px;
+}
+.bottom-box{
+  background-color: #12cad6;
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
+  border: solid 10px;
+}
